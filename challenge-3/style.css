@@ -1,0 +1,14 @@
+.paragraphs{
+    height: 50%;
+    width: 50%;
+    margin: 40px auto;
+    padding: 20px;  
+}
+.group_1{
+    background-color:#F5F5F5;
+}
+
+.group_2{
+    background-color: #F0CCE2;
+    font-weight: bold;
+}

@@ -1,0 +1,26 @@
+
+.clothes, .home{
+    color:#ffffff;
+}
+
+.clothes th{
+    background-color: #BB86FC;
+}
+
+.clothes td, .home td{
+    background-color: #424250;
+    
+}
+
+.home th{
+    background-color: #00C4B4;
+}
+table{
+    width: 25%;
+    height: 10%;
+    margin:2% auto;
+}
+
+h1{
+    text-align: center;
+}
